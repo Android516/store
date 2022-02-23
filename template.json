@@ -14,5 +14,7 @@
     "feat": "Users on the site, called Scratchers, can create projects on the website using a block-like interface."
   },
   "url": "https://melonicoverlord.github.io/aeughweb/",
-  "Type": "game"
+  "Type": "game",
+  "data, url": "https://melonicoverlord.github.io/aeughweb/",
+  "data, Type": "game"
 }
