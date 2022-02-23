@@ -466,6 +466,22 @@
       ],
       "desc": "Scratch is a high-level block-based visual programming language and website targeted primarily at children 8–16 as an educational tool for programming. ",
       "feat": "Users on the site, called Scratchers, can create projects on the website using a block-like interface."
+    },
+{
+    "name": "Doom2dos",
+    "icon": "https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-26/256/Doom-II-2-icon.png",
+    "type": "game",
+    "data": {
+        "type": "IFrame",
+        "url": "https://archive.org/embed/Doom-2",
+        "gallery": [
+            "https://assets.wad-archive.com/wadarchive/images/b7ba1c68631023ea1aab1d7b9f7f6e9afc508f39/screenshots/MAP01.png",
+            "https://pccentre.pl/images/screenshots/doom_2.jpg",
+            "https://image.api.playstation.com/vulcan/img/cfn/11307b-o7smyzs6roZDFLo7VSvehl27ThJCn-bYqxDfOPTikSsSwBTbbe7yeDqMY2JielMaOUOr99hDe_3nbiGmpvvwo9o_4.jpg",
+        ],
+        "desc": "Classic Doom2 powered on DosBOX. ",
+        "feat": "Doom2DosBOX"
     }
   }
 ]
+        
